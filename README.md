@@ -162,10 +162,7 @@ This project is submitted for academic evaluation only under **Bahria University
 
 **Team Members:**
 
-* Muhammad Awab Sial (01-134222-091)
-* Syed Amber Ali Shah (01-134222-146)
-* Fawad Naveed (01-134222-049)
-
-**Class:** BS-CS 5B
-**Semester:** Fall 2024
+* Muhammad Awab Sial
+* Syed Amber Ali Shah
+* Fawad Naveed
 
